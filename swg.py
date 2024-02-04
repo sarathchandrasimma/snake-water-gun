@@ -33,10 +33,10 @@ while(u<3):
         break
     elif(s==2):
         if(u==0):
-            print(f"\"win\" ")
+            print(f"\"loose\" ")
             break
         elif(u==1):
-            print(f"\"loose\" ")
+            print(f"\"win\" ")
             break
         elif(u==2):
             print(f"\"draw\"")
